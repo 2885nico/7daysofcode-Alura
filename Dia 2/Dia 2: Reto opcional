@@ -1,0 +1,18 @@
+Si deseas profundizar en el tema de hoy, tengo otro ejercicio para ti.
+
+
+Pero es 100% opcional.
+
+
+Vas a complementar el código para que, después de mostrar el mensaje anterior, el programa pregunte:
+
+
+¿Te gusta estudiar [lenguaje]? Responde con el número 1 para SÍ o 2 para NO.
+
+
+Y luego, dependiendo de la respuesta, debería mostrar uno de los siguientes mensajes:
+
+
+1 > ¡Muy bien! Sigue estudiando y tendrás mucho éxito.
+
+2 > Oh, qué pena... ¿Ya intentaste aprender otros lenguajes?
